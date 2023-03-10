@@ -13,8 +13,6 @@ const fizzBuzz = () => {
             array.push(i)
         }
     }return array;
-
-        
     }
 
     console.log(fizzBuzz())
